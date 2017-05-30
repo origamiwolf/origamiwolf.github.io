@@ -1,3 +1,1 @@
-# Welcome!
-
-Eileen's Page of Random Programming Projects.
+# Eileen's Page of Random Programming Projects.
